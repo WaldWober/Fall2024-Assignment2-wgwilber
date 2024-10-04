@@ -1,0 +1,7 @@
+C:\UA Documents\CS-330\Project2\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-wgwilber.exe
+C:\UA Documents\CS-330\Project2\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\UA Documents\CS-330\Project2\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\UA Documents\CS-330\Project2\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-wgwilber.dll
+C:\UA Documents\CS-330\Project2\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-wgwilber.deps.json
+C:\UA Documents\CS-330\Project2\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-wgwilber.runtimeconfig.json
+C:\UA Documents\CS-330\Project2\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\Fall2024-Assignment2-wgwilber\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-wgwilber.pdb

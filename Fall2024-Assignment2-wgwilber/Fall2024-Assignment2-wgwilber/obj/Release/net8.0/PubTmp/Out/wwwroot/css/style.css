@@ -1,0 +1,86 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-image: url('../media/jasper1.jpeg');
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+#Title {
+  color: blue;
+  font-family: "Papyrus", fantasy;
+  font-size: 200%;
+  text-align: center;
+  opacity: 50%;
+}
+
+#Box {
+  background-color:rgb(25, 192, 13);
+  height: auto;
+  display: block;
+  margin-left: 60px;
+  margin-right: 60px;
+  text-align: center;
+}
+
+#query {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  font-size: 150%;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#SearchButton {
+  color: pink;
+  background-color: violet;
+  Display: inline-block;
+}
+
+#TimeButton {
+  color: chartreuse;
+  background-color: brown;
+  display: inline-block;
+}
+
+#LuckyButton {
+  color: orange;
+  background-color: red;
+  display: inline-block;
+}
+
+#searchResults {
+  color: black;
+  background-color: brown;
+  opacity: 80%;
+  display: none;
+}
+
+#Time {
+  color: black;
+  background-color: blanchedalmond;
+  opacity: 80%;
+  display: none;
+
+  text-align: center;
+  font-size: 200%;
+}
